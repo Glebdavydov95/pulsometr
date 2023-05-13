@@ -1,0 +1,13 @@
+@media (max-width: 575px) {
+    .header {
+        &__logo {
+            width: 200px;
+        }
+        &__official {
+            display: none;
+        }
+        &__phone {
+            font-size: 13px;
+        }
+    }
+}
